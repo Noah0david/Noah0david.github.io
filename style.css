@@ -1,0 +1,43 @@
+html {
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  
+    
+}
+body {
+    background-color: #C0C0C0;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+    color: midnightblue;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 0.5px;
+}
+
+p1 {
+ letter-spacing: 0.5px;
+ line-height: 2;   
+ font-size: 16px;
+ color: blueviolet
+}
+
+p2 {
+letter-spacing: 0.5px;
+ line-height: 2;   
+ font-size: 15px;
+ color: blue
+}
+pp {
+}
+
+#moncadre {
+   border:3px solid steelblue ;
+   width:1880px;
+   height:150px;
+}
